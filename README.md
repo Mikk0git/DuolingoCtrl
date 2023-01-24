@@ -3,3 +3,4 @@
 ## TO-Do
 - Timer
 - streak rewards
+- config file
