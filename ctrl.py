@@ -13,15 +13,18 @@ def dailyXP():
     xp_today = dXP['xp_today']
     return xp_today
 
-onStartTime = time.time()
 
+
+onStartTime = time.time()
 print(onStartTime)
+
+
 
 time.sleep(5)#900)
 while True:
     if time.time() - dailyXP()*120 > onStartTime:
         print("Zamykanie")
-    
+    print("ok")
 
 
 
