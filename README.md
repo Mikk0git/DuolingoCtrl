@@ -4,3 +4,6 @@
 - Timer
 - streak rewards
 - config file
+
+
+the midnight is not counted
